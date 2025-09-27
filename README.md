@@ -1,6 +1,7 @@
 # Perplexity-Clone: RAG-Powered AI Search Engine
 
-<video src="perplexity_clone.mp4" controls width="100%" muted autoplay loop>
+<video src="perplexity_clone.mp4" controls width="100%" muted autoplay loop></video>
+
 
 ## 💡 Project Overview
 
