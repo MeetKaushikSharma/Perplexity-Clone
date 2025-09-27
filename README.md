@@ -7,7 +7,6 @@
        loop>
 </video>
 
-## 💡 Project Overview
 
 
 ## 💡 Project Overview
