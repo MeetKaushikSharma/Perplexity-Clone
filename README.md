@@ -1,5 +1,5 @@
 # Perplexity-Clone: RAG-Powered AI Search Engine
-<video src="https://user-attachments.githubusercontent.com/perplexity_clone.mp4" 
+<video src="perplexity_clone.mp4" 
        controls 
        width="100%" 
        muted 
